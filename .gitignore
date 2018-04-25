@@ -1,0 +1,9 @@
+*.sha256
+*.tgz
+*.trx
+*.zip
+Changelog.txt
+README-merlin.txt
+asuswrt
+files-with-bad-path
+ken-paths.sh

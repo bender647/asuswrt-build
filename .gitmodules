@@ -1,0 +1,3 @@
+[submodule "asuswrt-merlin"]
+	path = asuswrt-merlin
+	url = https://github.com/bender647/asuswrt-merlin
