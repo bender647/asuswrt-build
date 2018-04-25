@@ -7,7 +7,7 @@ About
 -----
 This is a makefile that sets up the build environment necessary to build the asuswrt and asuswrt-merlin mips firmwares.
 
-It contains a firmware as a submodule:
+It contains the firmware source as a submodule:
 
 [https://github.com/bender647/asuswrt-merlin](https://github.com/bender647/asuswrt-merlin.)
 
@@ -17,6 +17,7 @@ This was tested on a multi-lib, Slackware 14.2 64-bit machine:
 
 ~~~~
 git clone --recursive-submodules https://github.org/bender647/asuswrt-build.git
+cd asuswrt-build
 make patch
 make clean
 make
