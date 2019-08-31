@@ -9,7 +9,7 @@ This is a makefile that sets up the build environment necessary to build the asu
 
 It contains the firmware source as a submodule:
 
-[https://github.com/bender647/asuswrt-merlin](https://github.com/bender647/asuswrt-merlin.)
+[https://github.com/bender647/asuswrt-merlin](https://github.com/bender647/asuswrt-merlin)
 
 How to Use
 -----
